@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ioannis</h1>
-<h3 align="center">Embedded Systems Engineer and AI engineer</h3>
+<h3 align="center">Embedded Systems &amp AI Engineer</h3>
 
 - 🔭 I’m currently working on [maksRCNN written in C++](https://github.com/supernlogn/maskRCNNcpp)
 
-- 🌱 I’m currently learning **Eigen, Haskell**
+- 🌱 I’m currently learning **Eigen, Haskell, SEL4, Convex Optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/supernlogn](https://github.com/supernlogn)
 
