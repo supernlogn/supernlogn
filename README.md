@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ioannis</h1>
-<h3 align="center">Embedded Systems &amp AI Engineer</h3>
+<h1 align="center">Hello there! I'm Ioannis</h1>
+<img> </img>
+<h3 align="center">An Embedded Systems &amp AI Engineer from Greece</h3>
 
 - 🔭 I’m currently working on [maksRCNN written in C++](https://github.com/supernlogn/maskRCNNcpp)
 
