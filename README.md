@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Ioannis</h1>
+<h1 align="center">Ioannis</h1>
 <img> </img>
 <h3 align="center">An Embedded Systems &amp AI Engineer from Greece living in Zurich</h3>
 
