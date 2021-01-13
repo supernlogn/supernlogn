@@ -1,6 +1,6 @@
 <h1 align="center">Ioannis</h1>
 <img> </img>
-<h3 align="center">An Embedded Systems &amp AI Engineer living in Zurich</h3>
+<h3 align="center">Embedded Systems &amp AI Engineer living in Zurich</h3>
 
 - 🔭 I’m currently working on [maksRCNN written in C++](https://github.com/supernlogn/maskRCNNcpp)
 
