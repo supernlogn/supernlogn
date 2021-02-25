@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MLflow, Convex Optimization**
 
-- 👨‍💻 All of my projects are available at [https://github.com/supernlogn](https://github.com/supernlogn)
+- 👨‍💻 Many of my projects are available at [https://github.com/supernlogn](https://github.com/supernlogn)
 
 - 💬 Interested in **Tensorflow, C++, Computer Vision, embedded systems, software engineering**
 
