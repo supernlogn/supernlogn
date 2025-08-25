@@ -4,12 +4,19 @@
 
 - 🔭 I’m currently working
    - for Siemens in [Simcenter Prescan](https://plm.sw.siemens.com/en-US/simcenter/autonomous-vehicle-solutions/prescan/).
-   - trying to improve hospitality services at Aility GmbH
-<!-- - 🌱 I’m currently learning **MLflow, Convex Optimization**
- -->
  
-- 👨‍💻 Many of my projects are available at [https://github.com/supernlogn](https://github.com/supernlogn)
+- 👨‍💻 Many of my projects are available here, but not all.
 
-- 💬 Interested in **AI, C++, Computer Vision, embedded systems, software engineering**
+- 💬 Interested in
+
+ ... | ...
+---------------- | ------
+AI | C++
+Computer Vision | Embedded Systems
+Software Engineering |  
 
 - 📫 How to reach me **ath.ioannis94@gmail.com**
+
+-  More about me: See my [LinkedIn profile](https://www.linkedin.com/in/iathanasi/)
+
+ 
