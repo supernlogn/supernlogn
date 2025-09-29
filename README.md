@@ -5,15 +5,8 @@
 - 🔭 I’m currently working
    - for Siemens in [Simcenter Prescan](https://plm.sw.siemens.com/en-US/simcenter/autonomous-vehicle-solutions/prescan/).
  
-- 👨‍💻 Many of my projects are available here, but not all.
+- 👨‍💻 Many of my projects are available here.
 
-- 💬 Interested in
-
- ... | ...
----------------- | ------
-AI | C++
-Computer Vision | Embedded Systems
-Software Engineering |  
 
 - 📫 How to reach me **ath.ioannis94@gmail.com**
 
