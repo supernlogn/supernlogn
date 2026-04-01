@@ -2,7 +2,7 @@
 <img> </img>
 <h3 align="center">Perception &amp AI Engineer living in the Netherlands</h3>
 
-- 🔭 I’m currently working as a freelancer developer
+- 🔭 I’m currently working as a freelance developer
 
 - Previously worked for Siemens in [Simcenter Prescan](https://plm.sw.siemens.com/en-US/simcenter/autonomous-vehicle-solutions/prescan/).
  
