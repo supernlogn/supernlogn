@@ -2,7 +2,7 @@
 <img> </img>
 <h3 align="center">Perception &amp AI Engineer living in the Netherlands</h3>
 
-- 🔭 I’m currently working as a freelance developer
+- 🔭 I’m currently working in Clear Timber with point clouds embracing the future of precision forestry
 
 - Previously worked for Siemens in [Simcenter Prescan](https://plm.sw.siemens.com/en-US/simcenter/autonomous-vehicle-solutions/prescan/).
  
